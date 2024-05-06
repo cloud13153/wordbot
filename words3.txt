@@ -1,0 +1,35 @@
+aberration;an abnormal or unexpected occurrence;əˈbɛrəˌʃən;The sudden change in weather was an aberration for this time of year.
+acuity;sharpness or clarity, especially of vision or perception;əˈkjʊəti;His acuity of thought was impressive during the debate.
+ambivalent;having mixed or contradictory feelings or ideas;æmˈbɪvələnt;She felt ambivalent about accepting the job offer.
+antinomian;opposing or disregarding established laws or principles;ænˈtɪnəmiən;His antinomian views often caused controversy.
+articulacy;the ability to express oneself clearly and effectively;ˌɑːtɪkjʊˈleɪsi;Her articulacy in public speaking was highly praised.
+caustic;harsh or scathing in tone or expression;ˈkɔːstɪk;His caustic remarks about her work were hurtful and unproductive.
+circumspection;caution and prudence in one's actions;ˈsəːkəmspekt;He always exercised circumspection when dealing with sensitive information.
+dichotomous;divided into two distinct or opposite categories;ˈdɪkətəməs;The professor's lecture was structured around a clear dichotomous framework.
+disseminate;to spread or distribute information or ideas;dɪˈsemɪneɪt;He aimed to disseminate his research findings to a wider audience.
+epitome;the perfect or most complete example of a particular quality or type;ɪˈpɪtəmi;She was the epitome of elegance and grace.
+apple;яблоко;ˈæpl;I love eating apples.
+banana;банан;bəˈnænə;She had a banana for breakfast.
+book;книга;bʊk;I borrowed a book from the library.
+car;машина;kɑː;He drives a red car.
+city;город;ˈsɪti;I live in a big city.
+coffee;кофе;ˈkɒfi;Do you want a cup of coffee?
+computer;компьютер;kəmˈpjuːtə;I use a computer for work.
+dog;собака;dɒɡ;We have a cute little dog.
+egg;яйцо;eɡ;I cooked scrambled eggs for breakfast.
+family;семья;ˈfæməli;My family is very important to me.
+friend;друг;frɛnd;I have a best friend named Sarah.
+game;игра;ɡeɪm;Let's play a game.
+house;дом;haʊs;I live in a small house.
+internet;интернет;ˈɪntənɛt;I spend a lot of time on the internet.
+jacket;куртка;ˈdʒækɪt;I need to buy a new jacket for winter.
+accommodate;to provide with lodging or housing;əˈkəʊmədeɪt;I can accommodate you for the night.
+acquiesce;to agree or comply reluctantly;əˈkwɪɛs;She reluctantly acquiesced to his demands.
+ambiguous;having multiple possible meanings;æmˈbɪɡjʊəs;His statement was intentionally ambiguous.
+antithesis;a person or thing that is the direct opposite of another;ænˈtɪθəsɪs;Their beliefs were complete antithesis to each other.
+articulate;to express thoughts or ideas clearly;ˈɑːtɪkjʊlət;He was able to articulate his concerns effectively.
+bemused;perplexed or confused;bɪˈmjuːzd;She was bemused by his strange behavior.
+circumspect;cautious and prudent;ˈsəːkəmspekt;He was always circumspect in his business dealings.
+detrimental;causing harm or damage;dɪˈtrɪmjəntəl;His careless actions were detrimental to the project's success.
+dichotomy;division into two contrasting categories;ˈdɪkətəmi;There was a clear dichotomy between the two political parties.
+disconcerting;causing unease or confusion;dɪsˈkɜːnsəntɪŋ;His sudden announcement was disconcerting to everyone present.

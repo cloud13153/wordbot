@@ -1,0 +1,16 @@
+apple;яблоко;ˈæpl;I love eating apples.
+banana;банан;bəˈnænə;She had a banana for breakfast.
+book;книга;bʊk;I borrowed a book from the library.
+car;машина;kɑː;He drives a red car.
+city;город;ˈsɪti;I live in a big city.
+coffee;кофе;ˈkɒfi;Do you want a cup of coffee?
+computer;компьютер;kəmˈpjuːtə;I use a computer for work.
+dog;собака;dɒɡ;We have a cute little dog.
+egg;яйцо;eɡ;I cooked scrambled eggs for breakfast.
+family;семья;ˈfæməli;My family is very important to me.
+friend;друг;frɛnd;I have a best friend named Sarah.
+game;игра;ɡeɪm;Let's play a game.
+house;дом;haʊs;I live in a small house.
+internet;интернет;ˈɪntənɛt;I spend a lot of time on the internet.
+jacket;куртка;ˈdʒækɪt;I need to buy a new jacket for winter.
+error;ошибка;error;The programm goes to error.
