@@ -92,7 +92,7 @@ btranslateTranscriptionExample = [
 button_start = ReplyKeyboardMarkup(keyboard=bstart,resize_keyboard=True)
 translateTranscriptionExample = ReplyKeyboardMarkup(keyboard=btranslateTranscriptionExample,resize_keyboard=True)
 
-TOKEN = '7126464716:AAFeJyom835xaIhcM4n2X6NYmrP3RSihsso'
+TOKEN = 'YOUR_TOKEN'
 
 bot = Bot(token=TOKEN)# Объект бота
 storage=MemoryStorage()
